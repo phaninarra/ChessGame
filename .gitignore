@@ -1,0 +1,10 @@
+ChessGame.WebApi/Properties/
+ChessGame.WebApi/obj/
+ChessGame.WebApi/bin/
+ChessGame.Setup/obj/
+ChessGame.Setup/bin/
+ChessGame.Models/obj/
+ChessGame.Models/bin/
+ChessGame.GamePlay/obj/
+ChessGame.GamePlay/bin/
+.vs/
